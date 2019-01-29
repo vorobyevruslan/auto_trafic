@@ -8,7 +8,7 @@ import os
 
 
 fps = 15
-base_path = "/home/cera/auto_trafik/"
+base_path = "/home/cera/auto_trafic/"
 video_path = base_path+"video/"
 thresh_path = 10
 thresh_end_track = 5
